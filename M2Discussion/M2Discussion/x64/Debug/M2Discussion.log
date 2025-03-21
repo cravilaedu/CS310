@@ -1,0 +1,5 @@
+﻿  M2Discussion.cpp
+C:\Users\crist\source\repos\CS310\M2Discussion\M2Discussion.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\crist\source\repos\CS310\M2Discussion\M2Discussion.cpp(23,9): error C2065: 'num3': undeclared identifier
+C:\Users\crist\source\repos\CS310\M2Discussion\M2Discussion.cpp(28,36): error C2143: syntax error: missing ';' before ':'
+C:\Users\crist\source\repos\CS310\M2Discussion\M2Discussion.cpp(28,36): error C2059: syntax error: ':'
